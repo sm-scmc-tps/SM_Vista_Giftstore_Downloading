@@ -1,0 +1,14 @@
+﻿{
+  "Name": "button Excel - 6 runnin…",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "MLWRGLKX1EO1B7Eh4XKbag",
+  "Reference": "3sh5-7vWPUCjx1V-Gv3p2g/MLWRGLKX1EO1B7Eh4XKbag",
+  "ParentRef": "3sh5-7vWPUCjx1V-Gv3p2g/KbK_0pQMaU-D5yDjAEMD7g",
+  "Created": "2025-09-04T08:07:00.812132Z",
+  "Updated": "2025-09-04T08:07:00.812132Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="moqtyG4QwE6bEYvbkpp-MQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="a4202102-8cb2-4939-8acc-c849984b2350" CvElementArea="313, 113, 76, 22" CvTextArea="342, 118, 17, 11" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="313, 112, 75, 23" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlid='2' title='OK' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='2' title='OK' check:text='OK' /&gt;" Guid="a1281f6b-275e-43c7-8dd9-ba4fa369e11f" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='#32770' title='Microsoft Excel' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a4202102-8cb2-4939-8acc-c849984b2350" CvTextArea="15, 9, 81, 12" CvTextArgument="Microsoft Excel" CvType="Text" DesignTimeRectangle="15, 9, 81, 12" ElementType="Text" Guid="e0befc57-ca5e-444d-bc55-a796c771b6a2" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dd8d9d2b17caa0bc588e8784765fffa8.png" xmlns="">0tKgDxVJnEEmmEUScVuRlAg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

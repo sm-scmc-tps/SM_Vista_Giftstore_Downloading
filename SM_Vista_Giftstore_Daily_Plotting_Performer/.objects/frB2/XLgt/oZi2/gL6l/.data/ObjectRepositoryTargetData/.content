@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FcSaKLQC90C0zp1DguUVqw" Reference="3sh5-7vWPUCjx1V-Gv3p2g/gL6lDlAlDU2VOBRDjjQuug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="27ce9863-859c-46ea-811e-6c1ef25dd74c" CvElementArea="430, 6, 19, 18" CvType="CloseButton" DesignTimeRectangle="433, 7, 24, 24" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;uia automationid='Close' name='Close' role='button' /&gt;" FuzzySelectorArgument="&lt;uia automationid='Close' name='Close' role='button' check:fulltext='Close' /&gt;" Guid="c6e4cd70-891d-4694-bc9d-360751c68f40" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='NUIDialog' title='Accounts' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Visible" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="27ce9863-859c-46ea-811e-6c1ef25dd74c" CvTextArea="52, 123, 77, 28" CvTextArgument="Sign in" CvType="Text" DesignTimeRectangle="54, 119, 75, 28" ElementType="Text" FullSelectorArgument="&lt;uia name='Sign in' role='text' /&gt;" FuzzySelectorArgument="&lt;uia name='Sign in' role='text' automationid='' check:fulltext='Sign in' /&gt;" Guid="725f3f19-a8e6-49a9-9401-7a1f88f90cd3" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="490d561c02e628d9710089f6eee94951.png" xmlns="">0puhymVcCyUeELW7-QPlrcg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NIMcKkhoL0OxffubcB4lbw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="9b787060-af19-4080-b7a1-c8794b541c9a" CvElementArea="29, 17, 28, 28" CvType="Icon" DesignTimeRectangle="27, 11, 34, 38" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;uia cls='MsoCommandBar' helpText='Ribbon toolbar' /&gt;&lt;uia cls='NetUIElement' name='Quick Access Toolbar' /&gt;&lt;uia cls='NetUIRibbonButton' name='Save' /&gt;" FuzzySelectorArgument="&lt;uia cls='MsoCommandBar' helpText='Ribbon toolbar' /&gt;&lt;uia cls='NetUIElement' name='Quick Access Toolbar' /&gt;&lt;uia cls='NetUIRibbonButton' name='Save' role='Button' automationid='' check:fulltext='Save' /&gt;" Guid="2d2bb780-6bf0-4b67-a733-dcd742a61603" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACYAAAAqCAYAAADf/ynVAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADlSURBVFhH7ZYxCgIxEEW9ipfZ21h5AguvYC8eYLHWUqws7W0Ei228QeQvBMIwC/NdzQr+D48M2Z3JK1JkNl826ReRGIvEWCTGIjEWibFIjCUk9ul4Z1jCYu3lmFbtpl8R1BEQ2+udYQmLYTDqfJj9ZwjknV6JoZZYBKSq2OF6DoFUEVvs1unW3SnQg96vio1BYixVxLyL7lH2VBFDHs/OvewA35Cyp5qY3SvxJP5LDE8Wuze52Pa07wdizXvI5GIgy+VHX1l75Eeht+fNt4TFQJYbG2+2hRKricRYJMYiMRaJcTTpBXx08HmNZzyUAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='XLMAIN' title='DSAT_GIFTSTORE Template.xlsx - Excel' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="57bd96ff57df93d77912dad9fac4e09c.png" xmlns="">0Uso-HCu9mkiM96dcH-gagw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

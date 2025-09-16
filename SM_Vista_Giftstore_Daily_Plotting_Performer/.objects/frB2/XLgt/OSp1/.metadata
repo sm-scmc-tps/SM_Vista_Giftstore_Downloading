@@ -1,0 +1,13 @@
+﻿{
+  "Name": "DSAT_GIFTSTORE Template.xlsx - Excel",
+  "Type": "Screen",
+  "Id": "OSp1TqIvlUynLwRM7gez9g",
+  "Reference": "3sh5-7vWPUCjx1V-Gv3p2g/OSp1TqIvlUynLwRM7gez9g",
+  "ParentRef": "3sh5-7vWPUCjx1V-Gv3p2g/XLgtd7I7vU-AqUHWjxb7QQ",
+  "Created": "2025-09-04T07:26:49.3153148Z",
+  "Updated": "2025-09-04T07:26:49.3153148Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
