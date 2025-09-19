@@ -90,7 +90,7 @@
       <AssemblyReference>SubtitleActivity</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="DreamPOS_GetTransactionDate" sap:VirtualizedContainerService.HintSize="749.6000000000001,1195.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="DreamPOS_GetTransactionDate" sap:VirtualizedContainerService.HintSize="744.0000000000001,1195.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -122,7 +122,7 @@
               <OutArgument x:TypeArguments="x:String">[out_TransactionDate]</OutArgument>
             </Assign.To>
             <Assign.Value>
-              <InArgument x:TypeArguments="x:String">[Date.Today.AddDays(-1).ToString("MM/dd/yyyy")]</InArgument>
+              <InArgument x:TypeArguments="x:String">[Date.Today.AddDays(-2).ToString("MM/dd/yyyy")]</InArgument>
             </Assign.Value>
           </Assign>
         </Sequence>

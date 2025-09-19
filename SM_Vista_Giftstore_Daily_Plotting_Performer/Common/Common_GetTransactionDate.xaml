@@ -89,7 +89,7 @@
       <AssemblyReference>Microsoft.VisualBasic.Core</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText=" - DESCRIPTION: Getting of transaction date&#xA; - PRE-CONDITION. The robot will get the transaction date from Orchestrator.&#xA; - POST ACTION. The robot got the transaction date from Orchestrator." DisplayName="Total_Commission_GetTransactionDate" sap:VirtualizedContainerService.HintSize="749.6000000000001,1159.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText=" - DESCRIPTION: Getting of transaction date&#xA; - PRE-CONDITION. The robot will get the transaction date from Orchestrator.&#xA; - POST ACTION. The robot got the transaction date from Orchestrator." DisplayName="Total_Commission_GetTransactionDate" sap:VirtualizedContainerService.HintSize="744.0000000000001,1159.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -121,7 +121,7 @@
               <OutArgument x:TypeArguments="s:DateTime">[out_TransactionDate]</OutArgument>
             </Assign.To>
             <Assign.Value>
-              <InArgument x:TypeArguments="s:DateTime">[DateTime.Now.AddDays(-1)]</InArgument>
+              <InArgument x:TypeArguments="s:DateTime">[DateTime.Now.AddDays(-2)]</InArgument>
             </Assign.Value>
           </Assign>
         </Sequence>
